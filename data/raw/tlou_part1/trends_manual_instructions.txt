@@ -1,0 +1,22 @@
+TrendCast Google Trends export
+
+GAME:
+The Last of Us Part I
+
+QUERY:
+The Last of Us Part I
+
+TIME RANGE:
+2026-07-08 to 2026-10-05
+
+SETTINGS:
+- Location: Worldwide
+- Search type: Web Search
+- Category: Games (if available)
+- Export: Interest over time -> CSV
+
+Save the downloaded CSV here:
+
+D:\Data Science Project\data\raw\tlou_part1\trends_raw.csv
+
+Do not manually type or alter the values.
