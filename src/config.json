@@ -1,0 +1,9 @@
+{
+ "games": ["fallout4","kcd2","nier_automata","tlou_part1","trails_sc"],
+ "L": 14, "h": 7, "K_cap": 30, "tau_list": [0.5,0.7,0.8,0.9], "tau_primary": null,
+ "folds": [[55,65],[65,75],[75,89]],
+ "seeds": [0,1,2,3,4,5,6,7],
+ "hidden": 16, "epochs": 60, "lr": 0.003, "batch": 32, "weight_decay": 1e-4,
+ "K_phases": 3, "delta_growth": 0.03, "decay_frac": 0.9,
+ "online": {"steps": 5, "lr": 0.001, "buffer": 64}
+}
