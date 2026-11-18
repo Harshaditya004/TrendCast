@@ -1,0 +1,6 @@
+game,months,peak_month,frac_rising_before_peak,frac_decay_after_peak,frac_rising_after_peak,daily_window_months_equiv
+fallout4,128,2015-11-01,,0.568,0.344,see manuscript: 89-day window sits in the late/plateau part of every lifecycle
+kcd2,17,2025-02-01,,0.6428571428571429,0.35714285714285715,see manuscript: 89-day window sits in the late/plateau part of every lifecycle
+nier_automata,112,2017-03-01,,0.5596330275229358,0.4036697247706422,see manuscript: 89-day window sits in the late/plateau part of every lifecycle
+tlou_part1,40,2023-03-01,,0.43243243243243246,0.43243243243243246,see manuscript: 89-day window sits in the late/plateau part of every lifecycle
+trails_sc,129,2015-11-01,,0.5079365079365079,0.4365079365079365,see manuscript: 89-day window sits in the late/plateau part of every lifecycle

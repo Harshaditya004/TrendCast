@@ -1,0 +1,11 @@
+LPCF (K=3) 34s
+K=1 (learned fixed w) 61s
+Early concat 71s
+TFT-style selection 94s
+LSTM 102s
+DLinear 107s
+TFT-lite 120s
+Ridge 121s
+Random Forest 162s
+XGBoost 171s
+Persistence 171s
